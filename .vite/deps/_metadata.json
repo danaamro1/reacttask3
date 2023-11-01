@@ -1,0 +1,56 @@
+{
+  "hash": "a8679ce0",
+  "browserHash": "38382502",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "254aeb6f",
+      "needsInterop": true
+    },
+    "react-bootstrap/Container": {
+      "src": "../../node_modules/react-bootstrap/esm/Container.js",
+      "file": "react-bootstrap_Container.js",
+      "fileHash": "7bab546b",
+      "needsInterop": false
+    },
+    "react-bootstrap/Nav": {
+      "src": "../../node_modules/react-bootstrap/esm/Nav.js",
+      "file": "react-bootstrap_Nav.js",
+      "fileHash": "73d7e51a",
+      "needsInterop": false
+    },
+    "react-bootstrap/Navbar": {
+      "src": "../../node_modules/react-bootstrap/esm/Navbar.js",
+      "file": "react-bootstrap_Navbar.js",
+      "fileHash": "1db9ea90",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "aecf95bc",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "29c2f6d6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-MDIHFEFG": {
+      "file": "chunk-MDIHFEFG.js"
+    },
+    "chunk-TZLC4LC7": {
+      "file": "chunk-TZLC4LC7.js"
+    },
+    "chunk-ZH4AC5YG": {
+      "file": "chunk-ZH4AC5YG.js"
+    },
+    "chunk-L7APZED3": {
+      "file": "chunk-L7APZED3.js"
+    }
+  }
+}
